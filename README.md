@@ -1,9 +1,6 @@
 # Bennett Taniguchi
 
 **Full-Stack Developer** | Mathematics & Computer Science Graduate  
-📍 Woodinville, Washington 
-
-[LinkedIn](https://www.linkedin.com/in/bennett-taniguchi-360431171/)
 
 ## About Me
 
@@ -22,7 +19,7 @@ A full-stack learning tool that combines note-taking with AI-powered quiz genera
 Serverless application providing game builds and analytics. Built cloud-native architecture on AWS with automatic scaling, then migrated to Cloudflare to eliminate hosting costs while maintaining performance. Handles complex nested data structures for character configurations.
 
 ### 🍽️ [Restaurant Website](https://mexican-market-mockup.pages.dev/en/)
-### 🍽🏋️ [Gym Website](https://mexican-market-mockup.pages.dev/en/](https://modern-gym-website.pages.dev/) 
+### 🏋️ [Gym Website](https://modern-gym-website.pages.dev/) 
 **Tech:** Modern Web Technologies, Responsive Design
 
 Professional restaurant and gym websites showcasing modern design principles and responsive layouts across devices.
