@@ -11,7 +11,7 @@ Recent WWU graduate with expertise in full-stack development, machine learning, 
 ### 🧠 [Notility](https://bennett-taniguchi-blogr-nextjs-prisma.vercel.app/) - AI Learning Platform
 **Tech:** Next.js, TypeScript, PostgreSQL, RAG, JWT Authentication
 
-A full-stack learning tool that combines note-taking with AI-powered quiz generation and chatbot assistance. Implemented advanced RAG techniques to reduce AI hallucinations and improve query accuracy. Features secure multi-user collaboration and real-time data synchronization.
+A full-stack learning tool that combines note-taking with AI-powered quiz generation and chatbot assistance. Implemented advanced RAG techniques to reduce AI hallucinations and improve query accuracy. .
 
 ### 🎮 [TFTacTips](https://teamfight-page.pages.dev/) - Gaming Data Platform  
 **Tech:** React, Go, AWS Lambda, DynamoDB
