@@ -1,5 +1,5 @@
 # Bennett Taniguchi
-[Portfolio](https://bennett-portfolio.pages.dev/)
+## [Portfolio](https://bennett-portfolio.pages.dev/)
 **Full-Stack Developer** | Mathematics & Computer Science Graduate  
 
 ## About Me
