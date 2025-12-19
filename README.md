@@ -2,10 +2,11 @@
 
 ## [Portfolio](https://bennett-portfolio.pages.dev/)
 
-**Full-Stack Developer** | Mathematics & Computer Science Graduate  
+BS in Math/CS 
+Currently doing MS in CS @ UT Austin
 
 ## About Me
-Recent WWU graduate with interests in full-stack development, machine learning, math, and the cloud.
+Recent WWU graduate with interests in full-stack development, machine learning, and math 
 
 ### [Notility](https://bennett-taniguchi-blogr-nextjs-prisma.vercel.app/) - AI Learning Platform
 **Tech:** Next.js, TypeScript, PostgreSQL, RAG, JWT Authentication
@@ -15,7 +16,7 @@ A full-stack learning tool that combines note-taking with AI-powered quiz genera
 ### 🎮 [TFTacTips](https://teamfight-page.pages.dev/) - Gaming Data Platform  
 **Tech:** React, Go, AWS Lambda, DynamoDB
 
-Serverless application providing game builds and analytics. Deployed containerized services on AWS with load balancing, then migrated to Cloudflare to eliminate hosting costs while maintaining performance. 
+Serverless application providing game builds and analytics. Deployed containerized services on AWS with load balancing, then migrated to Cloudflare to eliminate hosting costs. 
 
 ### 🍽️ [Restaurant Website](https://mexican-market-mockup.pages.dev/en/)
 ### 🏋️ [Gym Website](https://modern-gym-website.pages.dev/) 
