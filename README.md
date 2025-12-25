@@ -3,7 +3,7 @@
 ## [Portfolio](https://bennett-portfolio.pages.dev/)
 
 BS in Math/CS 
-Currently pursuing MS in CS @ UT Austin
+Currently pursuing MS in CS from UT Austin
 
 ## About Me
 Recent WWU graduate with interests in full-stack development, machine learning, and math 
