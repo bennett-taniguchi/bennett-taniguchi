@@ -25,10 +25,14 @@ Serverless application providing game builds and analytics. Deployed containeriz
 Professional restaurant and gym demo websites showcasing modern design principles and responsive layouts.
 
 
-### 📊 Harry Potter Character Analysis
+### 📊 Kalshi Time-Series Forecasting on Dynamic and Nonlinear Data
 **Tech:** Python, scikit-learn, NLP, Data Visualization
 
-Applied Named Entity Recognition and sentiment analysis to 7 books, processing character dialogues through machine learning models trained on Reddit MBTI data. Created personality profiling system with statistical accuracy metrics and meaningful visualizations.
+- Analyzed market predicting top Spotify streams, initially applied ARIMA and exponential smoothing models to predict
+future streams based on daily and annual streams
+- Back-Tested time-series models to minimize error (MAPE, MAE, MASE) on transformed data
+- Settled upon hybrid approach combining ARIMA and XGBOOST to best model time-series and data anomalies
+- Achieved best performance, on the hybrid model, after cross-validating on rolling windows  
 
 ## Technical Skills
 
