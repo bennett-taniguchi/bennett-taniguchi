@@ -41,7 +41,5 @@ future streams based on daily and annual streams
 **Backend:** Express.js, Django, RESTful APIs, Serverless Architecture  
 **Databases:** PostgreSQL, SQLite, DynamoDB, Supabase  
 **Cloud/DevOps:** AWS (Lambda, ECS, EC2), Docker, Git, Cloudflare  
-**Data Science:** scikit-learn, NumPy, pandas, matplotlib, NLP, spacy
+**Data Science:** scikit-learn, NumPy, pandas, matplotlib, langchain, pytorch, xgboost
 
-
-**Currently seeking:** Full-stack developer roles where I can build scalable web applications, cloud architecture, and data-driven solutions.
