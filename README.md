@@ -26,7 +26,7 @@ Professional restaurant and gym demo websites showcasing modern design principle
 
 
 ### 📊 Kalshi Time-Series Forecasting on Dynamic and Nonlinear Data
-**Tech:** Python, scikit-learn, NLP, Data Visualization
+**Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
 
 - Analyzed market predicting top Spotify streams, initially applied ARIMA and exponential smoothing models to predict
 future streams based on daily and annual streams
