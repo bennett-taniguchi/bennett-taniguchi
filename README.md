@@ -27,9 +27,9 @@ Professional restaurant and gym demo websites showcasing modern design principle
 ### Kalshi Time-Series Forecasting with Adaptive Modeling
 **Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
 
-### [Github]([https://mexican-market-mockup.pages.dev/en/](https://github.com/bennett-taniguchi/spotify_forecasting))
-### [Streamlit]([https://mexican-market-mockup.pages.dev/en/](https://github.com/bennett-taniguchi/spotify_forecasting](https://spotifyforecasting-zf6g4itjdnvysw9728jpcz.streamlit.app/))
-
+### [Github](https://github.com/bennett-taniguchi/spotify_forecasting)
+### [Streamlit](https://spotifyforecasting-zf6g4itjdnvysw9728jpcz.streamlit.app/)
+ 
 - Analyzed market predicting top Spotify streams, initially applied ARIMA and exponential smoothing models to predict
 future streams based on daily and annual streams
 - Back-Tested time-series models to minimize error (MAPE, MAE, MASE) on transformed data
