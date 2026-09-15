@@ -5,7 +5,7 @@ Currently pursuing MS in CS from UT Austin
 
 #### Interested in Data Science and Machine Learning adjacent roles
 
-### [Notility](https://bennett-taniguchi-blogr-nextjs-prisma.vercel.app/) - AI Learning Platform ### [Github](https://github.com/bennett-taniguchi/spotify_forecasting)
+### [Notility](https://bennett-taniguchi-blogr-nextjs-prisma.vercel.app/) - AI Learning Platform [Github](https://github.com/bennett-taniguchi/spotify_forecasting)
 **Tech:** Next.js, TypeScript, PostgreSQL, RAG, JWT Authentication
 
 A full-stack learning tool that combines note-taking with AI-powered quiz generation and chatbot assistance. Implemented RAG techniques to reduce AI hallucinations and improve query accuracy.
@@ -20,7 +20,6 @@ future streams based on daily and annual streams
 
 ### Kalshi Time-Series Forecasting with Adaptive Modeling
 **Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
-
 
 ### [TFTacTips](https://teamfight-page.pages.dev/) - Gaming Data Platform  
 **Tech:** React, Go, AWS Lambda, DynamoDB
