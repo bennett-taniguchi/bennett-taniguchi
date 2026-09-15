@@ -21,11 +21,6 @@ future streams based on daily and annual streams
 ### Kalshi Time-Series Forecasting with Adaptive Modeling
 **Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
 
-### [TFTacTips](https://teamfight-page.pages.dev/) - Gaming Data Platform  
-**Tech:** React, Go, AWS Lambda, DynamoDB
-
-Serverless application providing game builds and analytics. Deployed containerized services on AWS with load balancing, then migrated to Cloudflare to eliminate hosting costs. 
-
 ## Technical Skills
 
 **Languages:** JavaScript/TypeScript, Python, HTML/CSS  
