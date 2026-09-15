@@ -12,6 +12,7 @@ A full-stack learning tool that combines note-taking with AI-powered quiz genera
 
 
 ### Kalshi Time-Series Forecasting with Adaptive Modeling [Streamlit](https://spotifyforecasting-zf6g4itjdnvysw9728jpcz.streamlit.app/)
+**Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
 
 - Analyzed market predicting top Spotify streams, initially applied ARIMA and exponential smoothing models to predict
 future streams based on daily and annual streams
@@ -20,11 +21,9 @@ future streams based on daily and annual streams
 - Achieved best performance, on the hybrid model, after cross-validating on rolling windows  
 
 
-**Tech:** Python, scikit-learn, pytorch, numpy, statsmodels, xgboost
-
 ## Technical Skills
 
-**Languages:** JavaScript/TypeScript, Python, HTML/CSS  
+**Languages:** Python, JavaScript/TypeScript
 **Frontend:** React, Next.js, React Native, Tailwind CSS  
 **Backend:** Express.js, Django, RESTful APIs, Serverless Architecture  
 **Databases:** PostgreSQL, SQLite, DynamoDB, Supabase  
